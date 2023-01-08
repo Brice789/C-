@@ -1,0 +1,6 @@
+/Users/bricelewis/Projects/Scrabble/Scrabble/obj/Debug/Scrabble.csproj.AssemblyReference.cache
+/Users/bricelewis/Projects/Scrabble/Scrabble/obj/Debug/Scrabble.csproj.CoreCompileInputs.cache
+/Users/bricelewis/Projects/Scrabble/Scrabble/bin/Debug/Scrabble.exe
+/Users/bricelewis/Projects/Scrabble/Scrabble/bin/Debug/Scrabble.pdb
+/Users/bricelewis/Projects/Scrabble/Scrabble/obj/Debug/Scrabble.exe
+/Users/bricelewis/Projects/Scrabble/Scrabble/obj/Debug/Scrabble.pdb
